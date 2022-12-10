@@ -1,4 +1,4 @@
-# Musiceplatform-server
+# Musiceplatform-Server
 
 ### :pushpin: About project
 <p align="justify">This server was written in order to explore the nest and its capabilities, you can delete and download audio files, as well as add song titles and authors, and change their data.</p>
